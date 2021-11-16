@@ -1,3 +1,6 @@
+[![Header](https://github.com/Felipe-Scandiuzzi/Felipe-Scandiuzzi/blob/images/Felipe%20Scandiuzzi.png "Header")](https://www.linkedin.com/in/felipescandiuzzi/)
+
+
 ### Hi there 👋
 
 <!--
