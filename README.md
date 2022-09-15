@@ -1,7 +1,7 @@
 [![Header](https://github.com/Felipe-Scandiuzzi/Felipe-Scandiuzzi/blob/images/Felipe%20Scandiuzzi.png "Header")](https://www.linkedin.com/in/felipescandiuzzi/)
 
 
-### Hi there 👋
+### Hi there, welcome! 👋
 
 <!--
 **Felipe-Scandiuzzi/Felipe-Scandiuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
