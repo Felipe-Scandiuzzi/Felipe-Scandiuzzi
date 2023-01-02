@@ -3,13 +3,15 @@
 
 ### Hi there, you are welcome! 👋
 
-# Felipe Scandiuzzi
+## ✍️ About
+
+Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define myself as one pursuing the expertise on the business-programming marriage
 
 [![Linkedin](https://img.shields.io/badge/felipe-scandiuzzi-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipescandiuzzi/)](https://www.linkedin.com/in/felipescandiuzzi/)
 [![Gmail](https://img.shields.io/badge/felipescandiuzzi97@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:felipescandiuzzi97@gmail.com)](mailto:felipescandiuzzi97@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/felipe-scandiuzzi?label=follow&style=social)](https://github.com/felipe-scandiuzzi)
 
-## Hard Skills:
+## ⌨️ Hard Skills:
 
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)
@@ -52,39 +54,13 @@
 ![adobepremierepro](https://img.shields.io/badge/Adobe%20Premiere-000058?&logo=adobepremierepro&logoColor=white)
 
 
-<!---
-
-## Soft Skills:
+## 🙋‍♂️ Soft Skills:
 teamwork
 leadership
 problem solving
 analytical and critical thinking
-training
-active learning
+communication
+business presentations
 collaboration
-motivation
-work ethic
-positive attitude
-
-## Activity
-
-[![card](https://github-readme-stats.vercel.app/api?username=matheusccouto&theme=default)](https://github.com/matheusccouto/)
-
-## Portfolio
-
-[![palpiteiro](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=palpiteiro)](https://github.com/matheusccouto/palpiteiro)
-
-[![bluff](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=bluff)](https://github.com/matheusccouto/bluff)
-
-[![scikit-dict](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-dict)](https://github.com/matheusccouto/scikit-dict)
-
-[![scikit-tune](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=scikit-tune)](https://github.com/matheusccouto/scikit-tune)
-
-[![college-football-rankings](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=college-football-rankings)](https://github.com/matheusccouto/college-football-rankings)
-
-[![poker-coach](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=poker-coach)](https://github.com/matheusccouto/poker-coach)
-
-[![analise-de-educacao-de-base-brasileira](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=analise-da-educacao-de-base-brasileira)](https://github.com/matheusccouto/analise-da-educacao-de-base-brasileira)
-
-[![humble-bundle-organizer](https://github-readme-stats.vercel.app/api/pin/?username=matheusccouto&repo=humble-bundle-organizer)](https://github.com/matheusccouto/humble-bundle-organizer)
--->
+responsibility
+being organized
