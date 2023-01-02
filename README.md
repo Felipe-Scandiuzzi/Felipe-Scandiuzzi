@@ -48,19 +48,22 @@ Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define my
 ![microsoftexcel](https://img.shields.io/badge/Microsoft%20Excel-026e38?&logo=microsoftexcel&logoColor=white)
 ![microsoftpowerpoint](https://img.shields.io/badge/Microsoft%20PowerPoint-e94320?&logo=microsoftpowerpoint&logoColor=white)
 
-
 ![adobeillustrator](https://img.shields.io/badge/Adobe%20Illustrator-f79500?&logo=adobeillustrator&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001d34?&logo=adobephotoshop&logoColor=white)
 ![adobepremierepro](https://img.shields.io/badge/Adobe%20Premiere-000058?&logo=adobepremierepro&logoColor=white)
 
 
 ## 🙋‍♂️ Soft Skills:
-teamwork
-leadership
-problem solving
-analytical and critical thinking
-communication
-business presentations
-collaboration
-responsibility
-being organized
+![teamwork](https://img.shields.io/badge/Collaboration-AC2724)
+![leadership](https://img.shields.io/badge/Leadership-42BEEB)
+![problem solving](https://img.shields.io/badge/Problem%20Solving-98C74D)
+![analytical and critical thinking](https://img.shields.io/badge/Analytical%20and%20Critical%20Thinking-6E8BAB)
+![communication](https://img.shields.io/badge/Active%20Learning-559C93)
+![business presentations](https://img.shields.io/badge/Collaboration-AC2724)
+![collaboration](https://img.shields.io/badge/Collaboration-98C74D)
+![responsibility](https://img.shields.io/badge/Motivation-F06242)
+![being organized](https://img.shields.io/badge/Positive%20Attitude-709C8F)
+
+
+## ✨ Activity
+[![card](https://github-readme-stats.vercel.app/api?username=felipediasmassa&theme=default)](https://github.com/felipediasmassa/)
