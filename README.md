@@ -66,4 +66,4 @@ Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define my
 
 
 ## ✨ Activity
-[![card](https://github-readme-stats.vercel.app/api?username=felipediasmassa&theme=default)](https://github.com/felipediasmassa/)
+[![card](https://github-readme-stats.vercel.app/api?username=felipe-scandiuzzi&theme=default)](https://github.com/felipe-scandiuzzi/)
