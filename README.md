@@ -13,7 +13,7 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)
-![selenium](https://img.shields.io/badge/Selenium-2C2D72?&logo=selenium&logoColor=white)
+![selenium](https://img.shields.io/badge/Selenium-3F4F75?&logo=selenium&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?&logo=numpy&logoColor=white)
 ![scipy](https://img.shields.io/badge/SciPy-654FF0?&logo=SciPy&logoColor=white)
@@ -42,6 +42,15 @@
 ![powerapps](https://img.shields.io/badge/Power%20Apps-000000?&logo=powerapps&logoColor=white)
 ![powerautomate](https://img.shields.io/badge/Power%20Automate-000000?&logo=powerautomate&logoColor=white)
 ![powerbi](https://img.shields.io/badge/Power%20BI-000000?&logo=powerbi&logoColor=white)
+![microsoftoffice](https://img.shields.io/badge/microsoftoffice-000000?&logo=microsoftoffice&logoColor=white)
+![microsoftexcel](https://img.shields.io/badge/microsoftexcel-000000?&logo=microsoftexcel&logoColor=white)
+![microsoftpowerpoint](https://img.shields.io/badge/microsoftpowerpoint-000000?&logo=microsoftpowerpoint&logoColor=white)
+
+
+![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000000?&logo=adobeillustrator&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000000?&logo=adobephotoshop&logoColor=white)
+![adobepremierepro](https://img.shields.io/badge/adobepremierepro-000000?&logo=adobepremierepro&logoColor=white)
+
 
 <!---
 
