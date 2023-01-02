@@ -39,17 +39,17 @@
 ![github](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white)
 ![actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=github-actions&logoColor=white)
 
-![powerapps](https://img.shields.io/badge/Power%20Apps-000000?&logo=powerapps&logoColor=white)
-![powerautomate](https://img.shields.io/badge/Power%20Automate-000000?&logo=powerautomate&logoColor=white)
-![powerbi](https://img.shields.io/badge/Power%20BI-000000?&logo=powerbi&logoColor=white)
-![microsoftoffice](https://img.shields.io/badge/microsoftoffice-000000?&logo=microsoftoffice&logoColor=white)
-![microsoftexcel](https://img.shields.io/badge/microsoftexcel-000000?&logo=microsoftexcel&logoColor=white)
-![microsoftpowerpoint](https://img.shields.io/badge/microsoftpowerpoint-000000?&logo=microsoftpowerpoint&logoColor=white)
+![powerapps](https://img.shields.io/badge/Power%20Apps-741d63?&logo=powerapps&logoColor=white)
+![powerautomate](https://img.shields.io/badge/Power%20Automate-0f48c2?&logo=powerautomate&logoColor=white)
+![powerbi](https://img.shields.io/badge/Power%20BI-e9c310?&logo=powerbi&logoColor=white)
+![microsoftoffice](https://img.shields.io/badge/microsoftoffice-f63800?&logo=microsoftoffice&logoColor=white)
+![microsoftexcel](https://img.shields.io/badge/microsoftexcel-026e38?&logo=microsoftexcel&logoColor=white)
+![microsoftpowerpoint](https://img.shields.io/badge/microsoftpowerpoint-e94320?&logo=microsoftpowerpoint&logoColor=white)
 
 
-![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000000?&logo=adobeillustrator&logoColor=white)
-![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000000?&logo=adobephotoshop&logoColor=white)
-![adobepremierepro](https://img.shields.io/badge/adobepremierepro-000000?&logo=adobepremierepro&logoColor=white)
+![adobeillustrator](https://img.shields.io/badge/adobeillustrator-f79500?&logo=adobeillustrator&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/adobephotoshop-001d34?&logo=adobephotoshop&logoColor=white)
+![adobepremierepro](https://img.shields.io/badge/adobepremierepro-000058?&logo=adobepremierepro&logoColor=white)
 
 
 <!---
