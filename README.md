@@ -42,14 +42,14 @@
 ![powerapps](https://img.shields.io/badge/Power%20Apps-741d63?&logo=powerapps&logoColor=white)
 ![powerautomate](https://img.shields.io/badge/Power%20Automate-0f48c2?&logo=powerautomate&logoColor=white)
 ![powerbi](https://img.shields.io/badge/Power%20BI-e9c310?&logo=powerbi&logoColor=white)
-![microsoftoffice](https://img.shields.io/badge/microsoftoffice-f63800?&logo=microsoftoffice&logoColor=white)
-![microsoftexcel](https://img.shields.io/badge/microsoftexcel-026e38?&logo=microsoftexcel&logoColor=white)
-![microsoftpowerpoint](https://img.shields.io/badge/microsoftpowerpoint-e94320?&logo=microsoftpowerpoint&logoColor=white)
+![microsoftoffice](https://img.shields.io/badge/Microsoft%20Office-f63800?&logo=microsoftoffice&logoColor=white)
+![microsoftexcel](https://img.shields.io/badge/Microsoft%20Excel-026e38?&logo=microsoftexcel&logoColor=white)
+![microsoftpowerpoint](https://img.shields.io/badge/Microsoft%20PowerPoint-e94320?&logo=microsoftpowerpoint&logoColor=white)
 
 
-![adobeillustrator](https://img.shields.io/badge/adobeillustrator-f79500?&logo=adobeillustrator&logoColor=white)
-![adobephotoshop](https://img.shields.io/badge/adobephotoshop-001d34?&logo=adobephotoshop&logoColor=white)
-![adobepremierepro](https://img.shields.io/badge/adobepremierepro-000058?&logo=adobepremierepro&logoColor=white)
+![adobeillustrator](https://img.shields.io/badge/Adobe%20Illustrator-f79500?&logo=adobeillustrator&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-001d34?&logo=adobephotoshop&logoColor=white)
+![adobepremierepro](https://img.shields.io/badge/Adobe%20Premiere-000058?&logo=adobepremierepro&logoColor=white)
 
 
 <!---
