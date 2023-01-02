@@ -54,15 +54,15 @@ Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define my
 
 
 ## 🙋‍♂️ Soft Skills:
-![teamwork](https://img.shields.io/badge/Collaboration-AC2724)
+![teamwork](https://img.shields.io/badge/Teamwork-AC2724)
 ![leadership](https://img.shields.io/badge/Leadership-42BEEB)
 ![problem solving](https://img.shields.io/badge/Problem%20Solving-98C74D)
 ![analytical and critical thinking](https://img.shields.io/badge/Analytical%20and%20Critical%20Thinking-6E8BAB)
-![communication](https://img.shields.io/badge/Active%20Learning-559C93)
-![business presentations](https://img.shields.io/badge/Collaboration-AC2724)
+![communication](https://img.shields.io/badge/Communication-559C93)
+![business presentations](https://img.shields.io/badge/Business%20Presentations-AC2724)
 ![collaboration](https://img.shields.io/badge/Collaboration-98C74D)
-![responsibility](https://img.shields.io/badge/Motivation-F06242)
-![being organized](https://img.shields.io/badge/Positive%20Attitude-709C8F)
+![responsibility](https://img.shields.io/badge/responsibility-F06242)
+![being organized](https://img.shields.io/badge/Organization-709C8F)
 
 
 ## ✨ Activity
