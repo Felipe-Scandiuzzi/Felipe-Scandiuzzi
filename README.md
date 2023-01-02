@@ -36,7 +36,7 @@ Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define my
 ![scrum](https://img.shields.io/badge/Scrum-7C63A2)
 ![safe](https://img.shields.io/badge/SAFe-66748C)
 ![jira](https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-7C63A2?&logo=Notion&logoColor=white)
 
 ![git](https://img.shields.io/badge/Git-000000?&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=white)
