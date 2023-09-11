@@ -64,7 +64,3 @@ Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define my
 ![collaboration](https://img.shields.io/badge/Collaboration-98C74D)
 ![responsibility](https://img.shields.io/badge/responsibility-F06242)
 ![being organized](https://img.shields.io/badge/Organization-709C8F)
-
-
-## ✨ Activity
-[![card](https://github-readme-stats.vercel.app/api?username=felipe-scandiuzzi&theme=default)](https://github.com/felipe-scandiuzzi/)
