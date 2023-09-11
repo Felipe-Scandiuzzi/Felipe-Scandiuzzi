@@ -5,7 +5,7 @@
 
 ## ✍️ About
 
-Nice to meet you! My name is Felipe Scandiuzzi, I'm 25 years old and I define myself as one pursuing the expertise on the business-programming marriage
+Nice to meet you! My name is Felipe Scandiuzzi, I'm 26 years old and I define myself as one pursuing the expertise on the business-programming marriage
 
 [![Linkedin](https://img.shields.io/badge/felipe-scandiuzzi-0A66C2?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipescandiuzzi/)](https://www.linkedin.com/in/felipescandiuzzi/)
 [![Gmail](https://img.shields.io/badge/felipescandiuzzi97@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=mailto:felipescandiuzzi97@gmail.com)](mailto:felipescandiuzzi97@gmail.com)
